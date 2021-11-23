@@ -1,4 +1,4 @@
-# Supercell Games CSV GlobalID
+# Supercell Games Object ID
 
 for `Brawl Stars`
 
