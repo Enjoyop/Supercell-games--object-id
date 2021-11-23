@@ -2,8 +2,8 @@
 
 for Brawl Stars
 
-### [Link](https://github.com/Enjoyop/Supercell-Games.CsvID/wiki)
+### [Link](https://github.com/Enjoyop/Supercell-Games.CsvID/wiki/BS)
 
 for Clash of Clans
 
-### [link](https://github.com/Enjoyop/v14.211/Wiki)
+### [link](https://github.com/Enjoyop/Supercell-Games.CsvID/wiki/COC)
