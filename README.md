@@ -9,3 +9,5 @@ for `Clash of Clans`
 ### [csv id](https://github.com/Enjoyop/Supercell-Games.CsvID/wiki/COC)
 
 for `Rush Wars`
+
+### [csv id](https://github.com/Enjoyop/Supercell-games--object-id/wiki/RW)
