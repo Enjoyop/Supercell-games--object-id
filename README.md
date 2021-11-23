@@ -4,6 +4,9 @@ for `Clash of Clans`
 
 ### [csv id](https://github.com/Enjoyop/Supercell-Games.CsvID/wiki/Clash-of-clans)
 
+for `Boom Beach`
+### [csv_id](https://github.com/Enjoyop/Supercell-games--object-id/wiki/Boom-beach)
+
 for `Brawl Stars`
 
 ### [csv id](https://github.com/Enjoyop/Supercell-games--object-id/wiki/Brawl-stars)
