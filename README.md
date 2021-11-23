@@ -1,4 +1,4 @@
-#Supercell Games CSV GlobalID
+# Supercell Games CSV GlobalID
 
 for Brawl Stars
 
