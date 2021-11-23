@@ -2,7 +2,7 @@
 
 for Brawl Stars
 
-### [Link](https://github.com/RomashkaTea/v35-CSVID/wiki)
+### [Link](https://github.com/Enjoyop/Supercell-Games.CsvID/wiki)
 
 for Clash of Clans
 
